@@ -574,7 +574,7 @@
             },
             {
               "atomType": "Import",
-              "x": 0.2,
+              "x": 0.1,
               "y": 0.4,
               "uniqueID": "id-331",
               "fileName": "Sled.step",
@@ -1584,7 +1584,7 @@
                             {
                               "atomType": "Input",
                               "x": 0,
-                              "y": 0.2,
+                              "y": 0.1,
                               "uniqueID": "id-6616",
                               "name": "Shape",
                               "type": "geometry",
@@ -2556,7 +2556,7 @@
                     {
                       "atomType": "Input",
                       "x": 0,
-                      "y": 0.2,
+                      "y": 0.1,
                       "uniqueID": "id-7070",
                       "name": "Shape",
                       "type": "geometry",
@@ -3792,7 +3792,7 @@
                         {
                           "atomType": "Input",
                           "x": 0,
-                          "y": 0.2,
+                          "y": 0.1,
                           "uniqueID": "id-2337",
                           "name": "Shape",
                           "type": "geometry",
@@ -8759,7 +8759,7 @@
                                         {
                                           "atomType": "Input",
                                           "x": 0,
-                                          "y": 0.2,
+                                          "y": 0.1,
                                           "uniqueID": "id-7181",
                                           "name": "Shape",
                                           "type": "geometry",
@@ -10719,7 +10719,7 @@
                             {
                               "atomType": "Input",
                               "x": 0,
-                              "y": 0.2,
+                              "y": 0.1,
                               "uniqueID": "id-2005",
                               "name": "Shape",
                               "type": "geometry",
@@ -11068,7 +11068,7 @@
                             {
                               "atomType": "Input",
                               "x": 0,
-                              "y": 0.2,
+                              "y": 0.1,
                               "uniqueID": "id-2083",
                               "name": "Shape",
                               "type": "geometry",
@@ -12564,7 +12564,7 @@
                         {
                           "atomType": "Input",
                           "x": 0,
-                          "y": 0.2,
+                          "y": 0.1,
                           "uniqueID": "id-2604",
                           "name": "Shape",
                           "type": "geometry",
@@ -13058,7 +13058,7 @@
                     {
                       "atomType": "Input",
                       "x": 0,
-                      "y": 0.2,
+                      "y": 0.1,
                       "uniqueID": "id-2445",
                       "name": "Shape",
                       "type": "geometry",
@@ -13482,7 +13482,7 @@
                         {
                           "atomType": "Input",
                           "x": 0,
-                          "y": 0.2,
+                          "y": 0.1,
                           "uniqueID": "id-2190",
                           "name": "Shape",
                           "type": "geometry",
@@ -13621,7 +13621,7 @@
                         {
                           "atomType": "Input",
                           "x": 0,
-                          "y": 0.2,
+                          "y": 0.1,
                           "uniqueID": "id-2217",
                           "name": "Shape",
                           "type": "geometry",
